@@ -1,0 +1,23 @@
+{
+    "name": "laura/tema7",
+    "autoload": {
+    }"psr-4":  {  
+        "laura\\tema7\\":" scr"
+    },
+    
+    "autoload-dev": {
+        "psr-4": {
+        "Laura\\tests\\": "tests/"
+        }
+        
+    "authors": [
+        {
+            "name": "Laura",
+            "email": "amaxranthine1995@gmail.com"
+        }
+    ]
+    "scripts": {
+        "test": "phpunit"
+        }
+        
+}

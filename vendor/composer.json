@@ -1,0 +1,19 @@
+{
+    "name": "laura/tema7",
+    "description": "...",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
+"autoload-dev": {
+    "psr-4": {
+    "Laura\\tests\\": "tests/"
+    }
+"authors": [
+    {
+        "name": "Laura",
+        "email": "amaxranthine1995@gmail.com"
+    }
+]
+}
